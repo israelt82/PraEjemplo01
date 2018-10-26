@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace Proscai.Archivos
+namespace Praxis.Archivos
 {
     public class Log
     {

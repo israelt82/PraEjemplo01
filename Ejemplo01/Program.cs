@@ -14,6 +14,7 @@ namespace Ejemplo01
             string msg = "Problemas al procesar la solicitud11";
             try
             {
+                Praxis.Archivos.Log.Escribir("Inicio", DateTime.Now.ToString());
                 int opcion = 0;
                 int opcionSub = 0;
                 Alumno alumno = new Alumno();
