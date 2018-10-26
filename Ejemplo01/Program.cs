@@ -11,7 +11,7 @@ namespace Ejemplo01
     {
         static void Main(string[] args)
         {
-            string msg = "Problemas al procesar la solicitud";
+            string msg = "Problemas al procesar la solicitud11";
             try
             {
                 int opcion = 0;
